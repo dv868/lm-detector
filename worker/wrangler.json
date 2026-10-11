@@ -5,5 +5,5 @@
   "compatibility_flags": ["enable_request_signal"],
   "workers_dev": true,
   "observability": { "enabled": false },
-  "vars": { "ALLOWED_ORIGINS": "https://lm.ikale.io" }
+  "vars": { "ALLOWED_ORIGINS": "https://lm.ikale.io,https://lm-fingerpoint-detector-a35.pages.dev" }
 }
